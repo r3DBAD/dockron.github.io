@@ -348,6 +348,7 @@ nav.scrolled .menu li a:active {
 
 #about .about-img {
 	position: relative;
+
 }
 
 #about .about-img img {
@@ -474,8 +475,8 @@ nav.scrolled .menu li a:active {
 }
 
 #portfolio .portfolio-item .item-img img {
-	width: 100%;
-	height: auto;
+	width: 680px;
+	height: 727px;
 }
 
 #portfolio .portfolio-item .item-info {
