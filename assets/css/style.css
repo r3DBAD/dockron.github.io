@@ -182,14 +182,14 @@ h6 {
 
 .core-nav .menu li.active > a {
 	color: #8aecec;
-	text-decoration: line-through;
+	text-decoration:underline;
 }
 
 .core-nav .menu li.active > a,
 .core-nav .menu li a:hover,
 .core-nav .menu li a:focus,
 .core-nav .menu li a:active {
-	text-decoration: line-through;
+	text-decoration: underline;
 	color: #8aecec;
 }
 
@@ -201,14 +201,14 @@ nav.scrolled .menu li a {
 
 nav.scrolled .menu li.active > a {
 	color: #8aecec;
-	text-decoration: line-through;
+	text-decoration: underline;
 }
 
 nav.scrolled .menu li.active > a,
 nav.scrolled .menu li a:hover,
 nav.scrolled .menu li a:focus,
 nav.scrolled .menu li a:active {
-	text-decoration: line-through;
+	text-decoration: underline;
 	color: #8aecec;
 }
 
@@ -332,7 +332,7 @@ nav.scrolled .menu li a:active {
 }
 
 #about h2:after {
-	top: -23px;
+	/* top: -23px; */
 	content: "";
 	position: relative;
 	left: 50%;
@@ -445,12 +445,12 @@ nav.scrolled .menu li a:active {
 }
 
 #portfolio h2:after {
-	top: -23px;
+	/* top: -23px; */
 	content: "";
 	position: relative;
 	left: 50%;
 	bottom: 0;
-	width: 300px;
+	width: 400px;
 	height: 4px;
 	display: block;
 	background-color: #ad67ea;
@@ -622,12 +622,12 @@ nav.scrolled .menu li a:active {
 }
 
 #services h2:after {
-	top: -23px;
+	/* top: -23px; */
 	content: "";
 	position: relative;
 	left: 50%;
 	bottom: 0;
-	width: 300px;
+	width: 270px;
 	height: 4px;
 	display: block;
 	background-color: #ad67ea;
@@ -697,12 +697,12 @@ nav.scrolled .menu li a:active {
 }
 
 #pricing .price-title:after {
-	top: -23px;
+	/* top: -23px; */
 	content: "";
 	position: relative;
 	left: 50%;
 	bottom: 0;
-	width: 300px;
+	width: 280px;
 	height: 4px;
 	display: block;
 	background-color: #ad67ea;
@@ -773,12 +773,12 @@ nav.scrolled .menu li a:active {
 }
 
 #testimonials h2:after {
-	top: -23px;
+	/* top: -23px; */
 	content: "";
 	position: relative;
 	left: 50%;
 	bottom: 0;
-	width: 300px;
+	width: 280px;
 	height: 4px;
 	display: block;
 	background-color: #ad67ea;
@@ -861,7 +861,7 @@ nav.scrolled .menu li a:active {
 }
 
 #team h2:after {
-	top: -23px;
+	/* top: -23px; */
 	content: "";
 	position: relative;
 	left: 50%;
@@ -963,7 +963,7 @@ nav.scrolled .menu li a:active {
 }
 
 #contact h2:after {
-	top: -23px;
+	/* top: -23px; */
 	content: "";
 	position: relative;
 	left: 50%;
